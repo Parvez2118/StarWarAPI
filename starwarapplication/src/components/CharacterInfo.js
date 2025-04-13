@@ -82,7 +82,7 @@ function CharacterInfo() {
   <Table variant='simple'>
     <Tbody>
     <Tr>
-        <Td>Name</Td>
+        <Td>Nameee</Td>
         <Td>{userData.name}</Td>
       </Tr>
       <Tr>
